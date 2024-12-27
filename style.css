@@ -32,3 +32,11 @@ img {
     height: 300px;
     width: auto;
 }
+
+.description {
+    font-size: 18px;
+}
+
+.recipe_lists {
+    font-size: 18px;
+}

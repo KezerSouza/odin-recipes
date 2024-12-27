@@ -23,3 +23,12 @@ a.list-element:hover {
     background-color: rgb(194, 194, 27);
     color: rgb(53, 47, 47);
 }
+
+.recipe_image {
+    text-align: center;
+}
+
+img {
+    height: 300px;
+    width: auto;
+}
